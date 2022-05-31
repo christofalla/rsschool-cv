@@ -22,7 +22,7 @@ function multiply(a, b){
 ```
 
 ### Education:
-Secondary School
+Secondary School.
 
 ### Languages:
 Ukraininan, Russian, English (B1+), Deutsch (A2).
