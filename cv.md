@@ -25,4 +25,4 @@ function multiply(a, b){
 Secondary School
 
 ### Languages:
-Ukraininan, Russian, English (B1+), Deutsch (A2)
+Ukraininan, Russian, English (B1+), Deutsch (A2).
