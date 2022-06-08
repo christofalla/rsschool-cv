@@ -166,6 +166,10 @@ footer {
     flex-wrap: nowrap;
 }
 
+.rsschool {
+    width: 100px;
+}
+
 .year {
     color: white;
 }
