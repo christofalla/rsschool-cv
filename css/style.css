@@ -146,9 +146,7 @@ h2 {
 
 
 /*Start footer*/
-footer {
-    background: url(/img/Sakura-blossom-minimalism-flowers-simple-pink-background-1782489-wallhere.com.jpg);
-}
+
 
 .page-footer {
     display: flex;
@@ -161,9 +159,18 @@ footer {
 
 }
 
+footer {
+    background-color: #f2c4ca;
+}
+
+
 .footer-tezt {
     display: flex;
     flex-wrap: nowrap;
+}
+
+.rsschool {
+    width: 100px;
 }
 
 .year {
